@@ -10,4 +10,3 @@ Futuras revisiones incluirán otros tamaños.
 ## Detalles
 - Tamaño: 21,5 cm x 33 cm (_Tamaño Oficio_ ú _8 1/2 in x 13 in_)
 - Grilla: 20,5 cm x 31 cm
-- 
